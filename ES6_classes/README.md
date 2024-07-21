@@ -1,0 +1,1 @@
+> Introduction to ES6 classes as part of Holberton school computer science program.

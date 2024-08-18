@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from typing import Tuple, Union, Callable
+from typing import Callable
 """
 Module 5-sum_list
 """

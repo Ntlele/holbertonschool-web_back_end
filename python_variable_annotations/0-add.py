@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Module 0-add with funtion that returns a sum of two integers
+Module 0-add with function that returns a sum of two floating-point numbers.
 """
 
-def add(a: int, b:int) -> int:
-    """ returns the sum of teo integers """
+def add(a: float, b: float) -> float:
+    """ returns the sum of two floating-point numbers """
     return a + b

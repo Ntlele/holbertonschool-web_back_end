@@ -7,10 +7,10 @@ Module 9-element_length
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
     """
-    Returns a list of tuples
+    function that gets the leghth of a list
 
     Args:
-        lst: list of values
+        lst (list): list of values
     Returns:
         list of tuples
     """

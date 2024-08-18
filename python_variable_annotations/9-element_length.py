@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from typing import Iterable, List, Tuple, Sequence
 """
-Module 9-element_length
+Module 9-element_length function that gets the leghth of a list
 """
 
 

@@ -5,6 +5,6 @@ Module 2-floor
 """
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     """ Returns the floor of the float parameter"""
     return math.floor(n)

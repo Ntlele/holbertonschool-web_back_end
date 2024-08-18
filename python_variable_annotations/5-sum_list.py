@@ -6,8 +6,5 @@ Module 5-sum_list
 
 
 def sum_list(input_list: List[float]) -> float:
-    """
-    Returns:
-        float: The sum of all the numbers in the input list.        
-    """
+    """ Returns the sum of the listed float values"""
     return sum(input_list)

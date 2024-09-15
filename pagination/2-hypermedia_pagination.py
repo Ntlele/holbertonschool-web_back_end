@@ -48,7 +48,7 @@ class Server:
             self.__dataset = dataset[1:]
 
         return self.__dataset
-    
+
 
     def get_page(self, page: int = 1, page_size: int = 10) -> List[List]:
         """Gets specific data

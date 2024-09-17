@@ -1,3 +1,3 @@
-function displayMessage(STDUOT) {
-    console.log(STDOUT);
+function displayMessage(STDOUT) {
+  console.log(STDOUT);
 }

@@ -8,7 +8,4 @@ function displayMessage(STDOUT) {
     console.log(STDOUT);
 }
 
-// Export the function for use in tests
-module.exports = {
-    displayMessage
-};
+displayMessage("Hello World!")

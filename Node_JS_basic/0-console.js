@@ -7,5 +7,3 @@
 function displayMessage(STDOUT) {
     console.log(STDOUT);
 }
-
-displayMessage("Hello World!")
